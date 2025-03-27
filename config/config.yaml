@@ -1,0 +1,7 @@
+pdf_directory: "pdfs/"
+faiss_db_path: "vectorstore/db_faiss"
+ollama_model_name: "deepseek-r1:14b"
+groq_llm_model: "deepseek-r1-distill-llama-70b"
+groq_llm_model_size: "1.5B"
+
+

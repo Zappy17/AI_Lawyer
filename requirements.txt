@@ -1,0 +1,10 @@
+streamlit
+langchain
+dvc
+pathlib
+langchain_community
+langchain_ollama
+langchain_groq
+faiss-cpu
+pdfplumber
+-e .

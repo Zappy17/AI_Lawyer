@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: AI_lawyer
+Version: 0.0.1
+Summary: A small python package for Chatbot app
+Home-page: https://github.com/Zappy17/AI_Lawyer
+Author: Zappy17
+Author-email: ansarizuhair145@gmail.com
+Project-URL: Bug Tracker, https://github.com/Zappy17/AI_Lawyer/issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# AI_Lawyer

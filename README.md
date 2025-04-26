@@ -14,7 +14,8 @@ The **AI Lawyer** is a Retrieval-Augmented Generation (RAG) based agentic system
 It is built with **Groq DeepSeek R1 API**, **Gemini API**, **LangChain**, **FAISS**, and **PDFPlumber**.  
 The project implements **MLOps** principles like version control, experiment tracking, and YAML-based configuration management.
 
-> **Note:** This project is currently being updated to improve functionality and stability.
+##**<span style="color:red">Note: This project is currently being updated to improve functionality and stability !!!.</span>**
+
 
 ---
 

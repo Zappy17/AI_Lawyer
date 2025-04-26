@@ -1,1 +1,333 @@
 [2025-03-26 10:18:23,456: INFO: logging_setup: Logging setup complete.]
+[2025-03-27 22:20:49,835: INFO: vector_database.: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-03-27 22:24:06,399: INFO: vector_database.: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-10 09:10:34,864: INFO: vector_database.: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-10 09:34:15,139: INFO: vector_database.: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-10 09:34:19,022: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 404 Not Found"]
+[2025-04-10 09:56:11,775: INFO: vector_database.: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-10 09:59:14,726: INFO: vector_database.: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-10 10:03:59,777: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-10 10:05:00,920: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-10 10:07:24,984: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-10 10:07:26,121: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-10 10:12:22,213: INFO: vector_database.: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-10 10:18:42,566: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-10 10:18:44,644: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-10 10:18:47,305: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-10 10:18:47,582: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-11 19:31:03,863: INFO: vector_database: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-11 19:39:18,798: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-11 19:39:25,684: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-11 19:39:49,700: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-11 19:39:50,128: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-11 19:40:08,711: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-11 19:40:19,870: INFO: _client: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"]
+[2025-04-12 09:28:08,320: INFO: vector_database: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 09:33:49,479: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-12 09:34:19,556: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-12 09:36:24,176: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-12 09:36:26,368: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-12 09:53:34,009: INFO: vector_database: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 09:59:20,642: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-12 09:59:24,537: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-12 09:59:26,916: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-12 09:59:27,183: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-12 10:12:18,880: INFO: vector_database: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 10:19:44,486: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-12 10:20:03,388: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-12 10:20:18,470: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-12 10:20:19,844: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-12 10:32:04,827: INFO: vector_database: file 'universal_declaration_of_human_rights.pdf' uploaded successfully to 'pdfs/']
+[2025-04-12 10:32:08,848: INFO: vector_database: The file in path 'pdfs/universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 10:40:25,929: INFO: vector_database: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 10:44:01,238: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-12 10:44:03,880: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-12 10:44:06,563: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-12 10:44:06,814: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-12 10:50:41,060: INFO: vector_database: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 10:54:02,765: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-12 10:54:07,975: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-12 10:54:12,070: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-12 10:54:12,916: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-12 11:05:24,045: INFO: vector_database: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 11:10:40,100: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-12 11:10:43,435: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-12 11:10:48,330: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-12 11:10:48,581: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-12 11:20:26,930: INFO: vector_database: file 'universal_declaration_of_human_rights.pdf' uploaded successfully to 'pdfs/']
+[2025-04-12 11:20:30,202: INFO: vector_database: The file in path 'pdfs/universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 11:24:10,540: INFO: vector_database: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 11:27:54,087: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-12 11:27:57,258: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-12 11:28:02,377: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-12 11:28:02,744: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-12 11:31:32,448: INFO: vector_database: file 'universal_declaration_of_human_rights.pdf' uploaded successfully to 'pdfs/']
+[2025-04-12 11:31:41,128: INFO: vector_database: The file in path 'pdfs/universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 11:34:54,059: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-12 11:34:58,150: INFO: vector_database: file 'universal_declaration_of_human_rights.pdf' uploaded successfully to 'pdfs/']
+[2025-04-12 11:34:58,904: INFO: vector_database: file 'universal_declaration_of_human_rights.pdf' uploaded successfully to 'pdfs/']
+[2025-04-12 11:34:59,272: INFO: vector_database: The file in path 'pdfs/universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 11:35:00,118: INFO: vector_database: The file in path 'pdfs/universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 11:38:02,708: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-12 11:40:54,270: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-12 22:42:38,195: INFO: vector_database: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 22:49:23,749: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-12 22:49:35,278: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-12 22:50:18,042: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-12 22:50:22,945: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-12 22:57:22,877: INFO: vector_database: file 'universal_declaration_of_human_rights.pdf' uploaded successfully to 'pdfs/']
+[2025-04-12 22:57:28,587: INFO: vector_database: The file in path 'pdfs/universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-12 23:03:09,720: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-13 01:02:15,038: INFO: vector_database: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-13 01:08:20,893: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-13 01:08:24,382: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-13 01:08:27,266: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-13 01:08:27,641: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-13 01:13:29,508: INFO: vector_database: file 'Aaquib Ansari (1).pdf' uploaded successfully to 'pdfs/']
+[2025-04-13 01:13:43,312: INFO: vector_database: The file in path 'pdfs/Aaquib Ansari (1).pdf' is succefully loaded]
+[2025-04-13 01:15:03,369: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-13 01:15:19,431: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-13 01:36:45,217: INFO: vector_database: The file in path 'universal_declaration_of_human_rights.pdf' is succefully loaded]
+[2025-04-13 01:42:43,517: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-13 01:42:46,811: INFO: loader: Loading faiss with AVX2 support.]
+[2025-04-13 01:42:49,244: INFO: loader: Successfully loaded faiss with AVX2 support.]
+[2025-04-13 01:42:49,534: INFO: __init__: Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.]
+[2025-04-13 01:46:39,403: INFO: vector_database: file 'Aaquib Ansari (1).pdf' uploaded successfully to 'pdfs/']
+[2025-04-13 01:47:01,936: INFO: vector_database: The file in path 'pdfs/Aaquib Ansari (1).pdf' is succefully loaded]
+[2025-04-13 01:48:33,188: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-13 01:48:35,951: INFO: _client: HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"]
+[2025-04-13 01:49:01,811: INFO: _client: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"]
+[2025-04-26 01:32:31,451: INFO: stage01_data_ingestion: >>>> stage Data Ingestion Pipeline started <<<<]
+[2025-04-26 01:32:33,216: ERROR: stage01_data_ingestion: 'NoneType' object has no attribute 'main']
+Traceback (most recent call last):
+  File "c:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\pipeline\stage01_data_ingestion.py", line 28, in <module>
+    obj.main()
+    ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'main'
+[2025-04-26 01:38:46,709: INFO: stage01_data_ingestion: >>>> stage Data Ingestion Pipeline started <<<<]
+[2025-04-26 01:38:46,956: INFO: common: config\config.yaml : file loaded successfully]
+[2025-04-26 01:38:48,509: INFO: common: params.yaml : file loaded successfully]
+[2025-04-26 01:38:48,540: INFO: common: created directory at path: artifacts/]
+[2025-04-26 01:38:48,611: ERROR: stage01_data_ingestion: 'NoneType' object has no attribute 'main']
+Traceback (most recent call last):
+  File "c:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\pipeline\stage01_data_ingestion.py", line 28, in <module>
+    obj.main()
+    ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'main'
+[2025-04-26 09:54:54,620: INFO: stage01_data_ingestion: >>>> stage Data Ingestion Pipeline started <<<<]
+[2025-04-26 09:54:56,773: INFO: stage01_data_ingestion: Starting Data Ingestion Pipeline]
+[2025-04-26 09:54:56,876: INFO: common: config\config.yaml : file loaded successfully]
+[2025-04-26 09:54:56,957: INFO: common: params.yaml : file loaded successfully]
+[2025-04-26 09:54:56,960: INFO: common: created directory at path: artifacts/]
+[2025-04-26 09:54:56,961: ERROR: stage01_data_ingestion:  Data Ingestion Pipeline failed: "'processed_directory'"]
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'processed_directory'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\pipeline\stage01_data_ingestion.py", line 13, in start_data_ingestion
+    data_config = config_manager.get_data_ingestion_config()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\config\configuration.py", line 19, in get_data_ingestion_config
+    create_directories([config['processed_directory']])
+                        ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'processed_directory'"
+[2025-04-26 09:54:56,981: ERROR: stage01_data_ingestion: 'NoneType' object has no attribute 'main']
+Traceback (most recent call last):
+  File "c:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\pipeline\stage01_data_ingestion.py", line 28, in <module>
+    obj.main()
+    ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'main'
+[2025-04-26 09:55:01,177: INFO: stage01_data_ingestion: >>>> stage Data Ingestion Pipeline started <<<<]
+[2025-04-26 09:55:01,192: INFO: stage01_data_ingestion: Starting Data Ingestion Pipeline]
+[2025-04-26 09:55:01,195: INFO: common: config\config.yaml : file loaded successfully]
+[2025-04-26 09:55:01,201: INFO: common: params.yaml : file loaded successfully]
+[2025-04-26 09:55:01,202: INFO: common: created directory at path: artifacts/]
+[2025-04-26 09:55:01,202: ERROR: stage01_data_ingestion:  Data Ingestion Pipeline failed: "'processed_directory'"]
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'processed_directory'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\pipeline\stage01_data_ingestion.py", line 13, in start_data_ingestion
+    data_config = config_manager.get_data_ingestion_config()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\config\configuration.py", line 19, in get_data_ingestion_config
+    create_directories([config['processed_directory']])
+                        ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'processed_directory'"
+[2025-04-26 09:55:01,205: ERROR: stage01_data_ingestion: 'NoneType' object has no attribute 'main']
+Traceback (most recent call last):
+  File "c:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\pipeline\stage01_data_ingestion.py", line 28, in <module>
+    obj.main()
+    ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'main'
+[2025-04-26 09:58:37,149: INFO: stage01_data_ingestion: >>>> stage Data Ingestion Pipeline started <<<<]
+[2025-04-26 09:58:37,995: INFO: stage01_data_ingestion: Starting Data Ingestion Pipeline]
+[2025-04-26 09:58:38,550: INFO: common: config\config.yaml : file loaded successfully]
+[2025-04-26 09:58:38,699: INFO: common: params.yaml : file loaded successfully]
+[2025-04-26 09:58:38,714: INFO: common: created directory at path: artifacts/]
+[2025-04-26 09:58:38,801: INFO: common: created directory at path: data/pdfs/]
+[2025-04-26 09:59:14,464: ERROR: stage01_data_ingestion:  Data Ingestion Pipeline failed: [Errno 22] Invalid argument: 'data\\pdfs\\view?usp=sharing']
+Traceback (most recent call last):
+  File "c:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\pipeline\stage01_data_ingestion.py", line 16, in start_data_ingestion
+    ingestion.download_pdfs()
+  File "C:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\components\data_ingestion.py", line 26, in download_pdfs
+    with open(save_path, 'wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'data\\pdfs\\view?usp=sharing'
+[2025-04-26 09:59:14,468: ERROR: stage01_data_ingestion: 'NoneType' object has no attribute 'main']
+Traceback (most recent call last):
+  File "c:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\pipeline\stage01_data_ingestion.py", line 28, in <module>
+    obj.main()
+    ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'main'
+[2025-04-26 10:02:25,559: INFO: stage01_data_ingestion: >>>> stage Data Ingestion Pipeline started <<<<]
+[2025-04-26 10:02:25,559: INFO: stage01_data_ingestion: Starting Data Ingestion Pipeline]
+[2025-04-26 10:02:25,582: INFO: common: config\config.yaml : file loaded successfully]
+[2025-04-26 10:02:25,583: INFO: common: params.yaml : file loaded successfully]
+[2025-04-26 10:02:25,586: INFO: common: created directory at path: artifacts/]
+[2025-04-26 10:02:25,588: INFO: common: created directory at path: data/pdfs/]
+[2025-04-26 10:02:49,976: ERROR: stage01_data_ingestion:  Data Ingestion Pipeline failed: [Errno 22] Invalid argument: 'data\\pdfs\\view?usp=sharing']
+Traceback (most recent call last):
+  File "c:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\pipeline\stage01_data_ingestion.py", line 16, in start_data_ingestion
+    ingestion.download_pdfs()
+  File "C:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\components\data_ingestion.py", line 26, in download_pdfs
+    with open(save_path, 'wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'data\\pdfs\\view?usp=sharing'
+[2025-04-26 10:02:49,981: ERROR: stage01_data_ingestion: 'NoneType' object has no attribute 'main']
+Traceback (most recent call last):
+  File "c:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\pipeline\stage01_data_ingestion.py", line 28, in <module>
+    obj.main()
+    ^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'main'
+[2025-04-26 10:15:11,617: INFO: stage01_data_ingestion: >>>> stage Data Ingestion Pipeline started <<<<]
+[2025-04-26 10:15:11,657: INFO: stage01_data_ingestion: Starting Data Ingestion Pipeline]
+[2025-04-26 10:15:12,525: INFO: common: config\config.yaml : file loaded successfully]
+[2025-04-26 10:15:12,575: INFO: common: params.yaml : file loaded successfully]
+[2025-04-26 10:15:12,576: INFO: common: created directory at path: artifacts/]
+[2025-04-26 10:15:12,578: INFO: common: created directory at path: artifacts/data/pdfs/]
+[2025-04-26 10:15:16,585: INFO: data_ingestion: Succesfully downloaded: https://lddashboard.legislative.gov.in/sites/default/files/coi/COI_2024.pdf -> artifacts\data\pdfs\COI_2024.pdf]
+[2025-04-26 10:15:16,994: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/repealedfileopen?rfilename=A1860-45.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/repealedfileopen?rfilename=A1860-45.pdf]
+[2025-04-26 10:15:17,261: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/15272/1/the_code_of_criminal_procedure,_1973.pdf -> artifacts\data\pdfs\the_code_of_criminal_procedure,_1973.pdf]
+[2025-04-26 10:15:17,528: INFO: data_ingestion: Succesfully downloaded: https://www.mha.gov.in/sites/default/files/250883_english_01042024.pdf -> artifacts\data\pdfs\250883_english_01042024.pdf]
+[2025-04-26 10:15:17,755: INFO: data_ingestion: Succesfully downloaded: https://www.mha.gov.in/sites/default/files/250882_english_01042024.pdf -> artifacts\data\pdfs\250882_english_01042024.pdf]
+[2025-04-26 10:15:18,064: INFO: data_ingestion: Succesfully downloaded: https://www.mha.gov.in/sites/default/files/2024-04/250884_2_english_01042024.pdf -> artifacts\data\pdfs\250884_2_english_01042024.pdf]
+[2025-04-26 10:15:18,312: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/11087/1/the_code_of_civil_procedure%2C_1908.pdf -> artifacts\data\pdfs\the_code_of_civil_procedure%2C_1908.pdf]
+[2025-04-26 10:15:18,432: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/15351/1/iea_1872.pdf -> artifacts\data\pdfs\iea_1872.pdf]
+[2025-04-26 10:15:18,551: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/1565/5/A1963-36.pdf -> artifacts\data\pdfs\A1963-36.pdf]
+[2025-04-26 10:15:18,680: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/15937/1/the_registration_act%2C1908.pdf -> artifacts\data\pdfs\the_registration_act%2C1908.pdf]
+[2025-04-26 10:15:18,820: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf -> artifacts\data\pdfs\A1882-04.pdf]
+[2025-04-26 10:15:18,956: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf -> artifacts\data\pdfs\A187209.pdf]
+[2025-04-26 10:15:19,107: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/1885/1/A194910.pdf -> artifacts\data\pdfs\A194910.pdf]
+[2025-04-26 10:15:19,238: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf -> artifacts\data\pdfs\a1881-26.pdf]
+[2025-04-26 10:15:19,378: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/1988/1/A1999_42.pdf -> artifacts\data\pdfs\A1999_42.pdf]
+[2025-04-26 10:15:19,496: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2036/5/A2003-15.pdf -> artifacts\data\pdfs\A2003-15.pdf]
+[2025-04-26 10:15:19,859: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2114/5/A2013-18.pdf -> artifacts\data\pdfs\A2013-18.pdf]
+[2025-04-26 10:15:19,954: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/1234/1/A1961-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/1234/1/A1961-43.pdf]
+[2025-04-26 10:15:20,136: ERROR: data_ingestion: FAILED to download https://cbic-gst.gov.in/CGST_Act_2017.pdf. Error: 404 Client Error: Not Found for url: https://cbic-gst.gov.in/CGST_Act_2017.pdf]
+[2025-04-26 10:15:20,332: ERROR: data_ingestion: FAILED to download https://cbic-gst.gov.in/IGST_Act_2017.pdf. Error: 404 Client Error: Not Found for url: https://cbic-gst.gov.in/IGST_Act_2017.pdf]
+[2025-04-26 10:15:20,567: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/11219/1/A1950-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/11219/1/A1950-43.pdf]
+[2025-04-26 10:15:20,770: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/11220/1/A1951-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/11220/1/A1951-43.pdf]
+[2025-04-26 10:15:20,987: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/1569/1/A1988-49.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/1569/1/A1988-49.pdf]
+[2025-04-26 10:15:21,094: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/1954/1/A2005-22.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/1954/1/A2005-22.pdf]
+[2025-04-26 10:15:21,220: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/1560/1/A1955-25.pdf -> artifacts\data\pdfs\A1955-25.pdf]
+[2025-04-26 10:15:21,303: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2303/1/A1937-26.pdf -> artifacts\data\pdfs\A1937-26.pdf]
+[2025-04-26 10:15:21,446: INFO: data_ingestion: Succesfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2186/1/A1872-15.pdf -> artifacts\data\pdfs\A1872-15.pdf]
+[2025-04-26 10:15:21,634: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/23393/1/P3A1936-2.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/23393/1/P3A1936-2.pdf]
+[2025-04-26 10:15:22,315: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/15319/1/A1954-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/15319/1/A1954-43.pdf]
+[2025-04-26 10:15:22,850: INFO: data_ingestion: Succesfully downloaded: https://nja.gov.in/Concluded_Programmes/2019-20/SE-05_2019_PPTs/6.LANDMARK%20JUDGMENTS%20OF%20THE%20SUPREME%20COURT%20PLAIN.pdf -> artifacts\data\pdfs\6.LANDMARK%20JUDGMENTS%20OF%20THE%20SUPREME%20COURT%20PLAIN.pdf]
+[2025-04-26 10:15:32,861: ERROR: data_ingestion: FAILED to download https://www.narcoordindia.gov.in/narcoordindia/judgements.php. Error: HTTPSConnectionPool(host='www.narcoordindia.gov.in', port=443): Max retries exceeded with url: /narcoordindia/judgements.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000018BDB621C40>, 'Connection to www.narcoordindia.gov.in timed out. (connect timeout=10)'))]
+[2025-04-26 10:15:33,045: ERROR: data_ingestion: FAILED to download https://misc.manupatra.in/images/Illustrated_cases_supreme_court_of_india.pdf. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))]
+[2025-04-26 10:15:33,918: INFO: data_ingestion: Succesfully downloaded: https://drive.google.com/file/d/1qCW-xgaA4Nt5g3bskG95N4MKy-SGY54q/view -> artifacts\data\pdfs\view]
+[2025-04-26 10:15:36,411: INFO: data_ingestion: Succesfully downloaded: https://www.jhalsa.org/pdfs/Reading_Materials/SC_Judgements_FamilyMatters1.pdf -> artifacts\data\pdfs\SC_Judgements_FamilyMatters1.pdf]
+[2025-04-26 10:15:36,413: INFO: stage01_data_ingestion:  Data Ingestion Pipeline completed successfully!]
+[2025-04-26 10:15:36,415: ERROR: stage01_data_ingestion: 'DataIngestion' object has no attribute 'main']
+Traceback (most recent call last):
+  File "c:\Users\Zuhair Ansari\AI_Lawyer\src\AI_Lawyer\pipeline\stage01_data_ingestion.py", line 30, in <module>
+    obj.main()
+    ^^^^^^^^
+AttributeError: 'DataIngestion' object has no attribute 'main'
+[2025-04-26 10:33:29,370: INFO: stage01_data_ingestion: >>>> stage Data Ingestion Pipeline started <<<<]
+[2025-04-26 10:33:30,873: INFO: stage01_data_ingestion: Starting Data Ingestion Pipeline]
+[2025-04-26 10:33:30,967: INFO: common: config\config.yaml : file loaded successfully]
+[2025-04-26 10:33:31,049: INFO: common: params.yaml : file loaded successfully]
+[2025-04-26 10:33:31,050: INFO: common: created directory at path: artifacts/]
+[2025-04-26 10:33:31,052: INFO: common: created directory at path: artifacts/data/pdfs/]
+[2025-04-26 10:33:35,760: INFO: data_ingestion: Successfully downloaded: https://lddashboard.legislative.gov.in/sites/default/files/coi/COI_2024.pdf -> artifacts\data\pdfs\COI_2024.pdf]
+[2025-04-26 10:33:36,063: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/repealedfileopen?rfilename=A1860-45.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/repealedfileopen?rfilename=A1860-45.pdf]
+[2025-04-26 10:33:36,310: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/15272/1/the_code_of_criminal_procedure,_1973.pdf -> artifacts\data\pdfs\the_code_of_criminal_procedure,_1973.pdf]
+[2025-04-26 10:33:36,535: INFO: data_ingestion: Successfully downloaded: https://www.mha.gov.in/sites/default/files/250883_english_01042024.pdf -> artifacts\data\pdfs\250883_english_01042024.pdf]
+[2025-04-26 10:33:36,902: INFO: data_ingestion: Successfully downloaded: https://www.mha.gov.in/sites/default/files/250882_english_01042024.pdf -> artifacts\data\pdfs\250882_english_01042024.pdf]
+[2025-04-26 10:33:37,181: INFO: data_ingestion: Successfully downloaded: https://www.mha.gov.in/sites/default/files/2024-04/250884_2_english_01042024.pdf -> artifacts\data\pdfs\250884_2_english_01042024.pdf]
+[2025-04-26 10:33:37,413: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/11087/1/the_code_of_civil_procedure%2C_1908.pdf -> artifacts\data\pdfs\the_code_of_civil_procedure%2C_1908.pdf]
+[2025-04-26 10:33:37,522: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/15351/1/iea_1872.pdf -> artifacts\data\pdfs\iea_1872.pdf]
+[2025-04-26 10:33:37,652: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/1565/5/A1963-36.pdf -> artifacts\data\pdfs\A1963-36.pdf]
+[2025-04-26 10:33:38,209: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/15937/1/the_registration_act%2C1908.pdf -> artifacts\data\pdfs\the_registration_act%2C1908.pdf]
+[2025-04-26 10:33:38,307: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2338/1/A1882-04.pdf -> artifacts\data\pdfs\A1882-04.pdf]
+[2025-04-26 10:33:38,434: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf -> artifacts\data\pdfs\A187209.pdf]
+[2025-04-26 10:33:38,614: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/1885/1/A194910.pdf -> artifacts\data\pdfs\A194910.pdf]
+[2025-04-26 10:33:38,745: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2189/1/a1881-26.pdf -> artifacts\data\pdfs\a1881-26.pdf]
+[2025-04-26 10:33:38,893: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/1988/1/A1999_42.pdf -> artifacts\data\pdfs\A1999_42.pdf]
+[2025-04-26 10:33:39,038: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2036/5/A2003-15.pdf -> artifacts\data\pdfs\A2003-15.pdf]
+[2025-04-26 10:33:39,405: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2114/5/A2013-18.pdf -> artifacts\data\pdfs\A2013-18.pdf]
+[2025-04-26 10:33:39,536: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/1234/1/A1961-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/1234/1/A1961-43.pdf]
+[2025-04-26 10:33:39,771: ERROR: data_ingestion: FAILED to download https://cbic-gst.gov.in/CGST_Act_2017.pdf. Error: 404 Client Error: Not Found for url: https://cbic-gst.gov.in/CGST_Act_2017.pdf]
+[2025-04-26 10:33:39,972: ERROR: data_ingestion: FAILED to download https://cbic-gst.gov.in/IGST_Act_2017.pdf. Error: 404 Client Error: Not Found for url: https://cbic-gst.gov.in/IGST_Act_2017.pdf]
+[2025-04-26 10:33:40,149: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/11219/1/A1950-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/11219/1/A1950-43.pdf]
+[2025-04-26 10:33:40,403: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/11220/1/A1951-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/11220/1/A1951-43.pdf]
+[2025-04-26 10:33:40,717: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/1569/1/A1988-49.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/1569/1/A1988-49.pdf]
+[2025-04-26 10:33:40,846: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/1954/1/A2005-22.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/1954/1/A2005-22.pdf]
+[2025-04-26 10:33:40,916: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/1560/1/A1955-25.pdf -> artifacts\data\pdfs\A1955-25.pdf]
+[2025-04-26 10:33:40,971: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2303/1/A1937-26.pdf -> artifacts\data\pdfs\A1937-26.pdf]
+[2025-04-26 10:33:41,058: INFO: data_ingestion: Successfully downloaded: https://www.indiacode.nic.in/bitstream/123456789/2186/1/A1872-15.pdf -> artifacts\data\pdfs\A1872-15.pdf]
+[2025-04-26 10:33:41,198: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/23393/1/P3A1936-2.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/23393/1/P3A1936-2.pdf]
+[2025-04-26 10:33:42,408: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/15319/1/A1954-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/15319/1/A1954-43.pdf]
+[2025-04-26 10:33:42,855: INFO: data_ingestion: Successfully downloaded: https://nja.gov.in/Concluded_Programmes/2019-20/SE-05_2019_PPTs/6.LANDMARK%20JUDGMENTS%20OF%20THE%20SUPREME%20COURT%20PLAIN.pdf -> artifacts\data\pdfs\6.LANDMARK%20JUDGMENTS%20OF%20THE%20SUPREME%20COURT%20PLAIN.pdf]
+[2025-04-26 10:33:53,004: ERROR: data_ingestion: FAILED to download https://www.narcoordindia.gov.in/narcoordindia/judgements.php. Error: HTTPSConnectionPool(host='www.narcoordindia.gov.in', port=443): Max retries exceeded with url: /narcoordindia/judgements.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F960F0B00>, 'Connection to www.narcoordindia.gov.in timed out. (connect timeout=10)'))]
+[2025-04-26 10:33:53,133: ERROR: data_ingestion: FAILED to download https://misc.manupatra.in/images/Illustrated_cases_supreme_court_of_india.pdf. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))]
+[2025-04-26 10:33:54,260: INFO: data_ingestion: Successfully downloaded: https://drive.google.com/file/d/1qCW-xgaA4Nt5g3bskG95N4MKy-SGY54q/view -> artifacts\data\pdfs\view]
+[2025-04-26 10:33:56,808: INFO: data_ingestion: Successfully downloaded: https://www.jhalsa.org/pdfs/Reading_Materials/SC_Judgements_FamilyMatters1.pdf -> artifacts\data\pdfs\SC_Judgements_FamilyMatters1.pdf]
+[2025-04-26 10:33:56,813: INFO: stage01_data_ingestion:  Data Ingestion Pipeline completed successfully!]
+[2025-04-26 10:33:56,815: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\COI_2024.pdf]
+[2025-04-26 10:33:56,933: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/repealedfileopen?rfilename=A1860-45.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/repealedfileopen?rfilename=A1860-45.pdf]
+[2025-04-26 10:33:56,941: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\the_code_of_criminal_procedure,_1973.pdf]
+[2025-04-26 10:33:56,942: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\250883_english_01042024.pdf]
+[2025-04-26 10:33:56,944: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\250882_english_01042024.pdf]
+[2025-04-26 10:33:56,946: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\250884_2_english_01042024.pdf]
+[2025-04-26 10:33:56,949: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\the_code_of_civil_procedure%2C_1908.pdf]
+[2025-04-26 10:33:56,952: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\iea_1872.pdf]
+[2025-04-26 10:33:56,955: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\A1963-36.pdf]
+[2025-04-26 10:33:56,957: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\the_registration_act%2C1908.pdf]
+[2025-04-26 10:33:56,958: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\A1882-04.pdf]
+[2025-04-26 10:33:56,961: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\A187209.pdf]
+[2025-04-26 10:33:56,963: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\A194910.pdf]
+[2025-04-26 10:33:56,966: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\a1881-26.pdf]
+[2025-04-26 10:33:56,966: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\A1999_42.pdf]
+[2025-04-26 10:33:56,971: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\A2003-15.pdf]
+[2025-04-26 10:33:56,973: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\A2013-18.pdf]
+[2025-04-26 10:33:57,127: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/1234/1/A1961-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/1234/1/A1961-43.pdf]
+[2025-04-26 10:33:57,303: ERROR: data_ingestion: FAILED to download https://cbic-gst.gov.in/CGST_Act_2017.pdf. Error: 404 Client Error: Not Found for url: https://cbic-gst.gov.in/CGST_Act_2017.pdf]
+[2025-04-26 10:33:57,450: ERROR: data_ingestion: FAILED to download https://cbic-gst.gov.in/IGST_Act_2017.pdf. Error: 404 Client Error: Not Found for url: https://cbic-gst.gov.in/IGST_Act_2017.pdf]
+[2025-04-26 10:33:57,597: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/11219/1/A1950-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/11219/1/A1950-43.pdf]
+[2025-04-26 10:33:57,751: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/11220/1/A1951-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/11220/1/A1951-43.pdf]
+[2025-04-26 10:33:57,919: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/1569/1/A1988-49.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/1569/1/A1988-49.pdf]
+[2025-04-26 10:33:58,064: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/1954/1/A2005-22.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/1954/1/A2005-22.pdf]
+[2025-04-26 10:33:58,067: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\A1955-25.pdf]
+[2025-04-26 10:33:58,070: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\A1937-26.pdf]
+[2025-04-26 10:33:58,072: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\A1872-15.pdf]
+[2025-04-26 10:33:58,231: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/23393/1/P3A1936-2.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/23393/1/P3A1936-2.pdf]
+[2025-04-26 10:33:58,495: ERROR: data_ingestion: FAILED to download https://www.indiacode.nic.in/bitstream/123456789/15319/1/A1954-43.pdf. Error: 404 Client Error: Not Found for url: https://www.indiacode.nic.in/bitstream/123456789/15319/1/A1954-43.pdf]
+[2025-04-26 10:33:58,507: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\6.LANDMARK%20JUDGMENTS%20OF%20THE%20SUPREME%20COURT%20PLAIN.pdf]
+[2025-04-26 10:34:08,522: ERROR: data_ingestion: FAILED to download https://www.narcoordindia.gov.in/narcoordindia/judgements.php. Error: HTTPSConnectionPool(host='www.narcoordindia.gov.in', port=443): Max retries exceeded with url: /narcoordindia/judgements.php (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000019F960F2840>, 'Connection to www.narcoordindia.gov.in timed out. (connect timeout=10)'))]
+[2025-04-26 10:34:08,693: ERROR: data_ingestion: FAILED to download https://misc.manupatra.in/images/Illustrated_cases_supreme_court_of_india.pdf. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))]
+[2025-04-26 10:34:08,695: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\view]
+[2025-04-26 10:34:08,696: INFO: data_ingestion: Already downloaded. Skipping: artifacts\data\pdfs\SC_Judgements_FamilyMatters1.pdf]
+[2025-04-26 10:34:08,697: INFO: stage01_data_ingestion: >>>> stage Data Ingestion Pipeline Completed <<<<]
